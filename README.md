@@ -1,5 +1,4 @@
 # PL/0 Language Compiler
-This is my compilation principle course design in 2019 Fall and I got an A in this class.
 # Inroduction
 
 I developed a compiler of four parts, including lexical analysis, syntax analysis, virtual machine, and symbol table, which could translate PL/0 language into executable 8086 Assembly language
